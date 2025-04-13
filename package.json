@@ -1,0 +1,16 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "a simple movie recommending bot based on users mood ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "dotenv": "^16.4.7",
+    "telegraf": "^4.16.3"
+  }
+}
